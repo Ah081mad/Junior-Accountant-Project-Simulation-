@@ -1,4 +1,4 @@
-# WHO IMMUNIZATION COVERAGE AANALYSIS PROJECT
+# WHO Immunization Coverage Analysis
 
 ## Project Overview
 This project simulates the role of a Junior Data Clerk at the **World Health Organization (WHO)**, analyzing immunization data across settlements. Using population data from **"WEEK 3 DATA B"**, the project estimates vaccination targets and measures coverage levels.
